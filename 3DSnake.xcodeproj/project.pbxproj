@@ -223,7 +223,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0900;
 				LastUpgradeCheck = 0900;
-				ORGANIZATIONNAME = "PGS Software";
+				ORGANIZATIONNAME = "";
 				TargetAttributes = {
 					B465F6611F1E36B700BE42DB = {
 						CreatedOnToolsVersion = 9.0;
@@ -475,7 +475,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 36CHZQXF4C;
+				DEVELOPMENT_TEAM = V567Q89DQV;
 				INFOPLIST_FILE = 3DSnake/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.arthurnikitin.3DSnake;
@@ -489,7 +489,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 36CHZQXF4C;
+				DEVELOPMENT_TEAM = V567Q89DQV;
 				INFOPLIST_FILE = 3DSnake/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.arthurnikitin.3DSnake;
@@ -503,7 +503,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIconAR;
-				DEVELOPMENT_TEAM = 36CHZQXF4C;
+				DEVELOPMENT_TEAM = V567Q89DQV;
 				INFOPLIST_FILE = 3DSnakeAR/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.pgs-soft.-DSnakeAR";
@@ -517,7 +517,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIconAR;
-				DEVELOPMENT_TEAM = 36CHZQXF4C;
+				DEVELOPMENT_TEAM = V567Q89DQV;
 				INFOPLIST_FILE = 3DSnakeAR/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.pgs-soft.-DSnakeAR";
